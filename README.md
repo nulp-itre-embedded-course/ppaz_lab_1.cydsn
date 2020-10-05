@@ -18,7 +18,7 @@ Student tasks
 
 4. Pull a newly created branch to the repository using the command
 
-   `git push`
+   `git push --set-upstream origin john_doe_branch`
 
 5. Run PSoC Creator and create a workbench.
 
