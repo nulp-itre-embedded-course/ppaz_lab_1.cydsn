@@ -50,3 +50,26 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# PSoC Creator related files
+# https://community.cypress.com/thread/18187?start=0&tstart=0
+.DS_Store
+*.cywrk.*        
+*.cyprj.*        
+*.cycdx        
+*.cyfit        
+*.rpt        
+*.uvopt        
+*.uvproj        
+*_timing.html        
+*.cydsn/codegentemp        
+*.cydsn/DP8051        
+*.cydsn/Generated_Source
+# My updates for PSOC4
+*.log
+CortexM0/
+Export/
+codegentemp/
+Generated_Source/
+*.svd
+*.rpt
