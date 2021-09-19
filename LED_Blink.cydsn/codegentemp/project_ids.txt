@@ -1,0 +1,7 @@
+D:\Projects\Git\PPAZ\ppaz_lab_1.cydsn\LED_Blink.cydsn\LED_Blink.cyprj|eebf26c6-750d-43c2-b016-42043fc01c04
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|aaa76a64-6cb7-4ac7-b08d-0f25d3254041
+C:\Users\serga\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|f1dbc908-f20c-4c77-8ccd-4c35530d140b
+C:\Users\serga\Documents\PSoC Creator\4.2\Downloads ( 4.2).cylib\Downloads ( 4.2).cyprj|bc31b8a9-8fde-406f-a529-49b06322d045
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|f413ed0e-8262-444f-a0c7-14685850f6ee
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|7c2aea15-0f4b-4bea-b771-01b34fc673ba
+C:\Program Files (x86)\Cypress\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|f6fe979e-e444-4f51-8c20-253ed376c51a
