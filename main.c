@@ -14,13 +14,12 @@
 int main(void)
 {
     CyGlobalIntEnable; /* Enable global interrupts. */
-
+    
     /* Place your initialization/startup code here (e.g. MyInst_Start()) */
 
-    for(;;)
-    {
-        Diod_Write(!Diod_Read());
-        CyDelay(5000);
+    for(;;) {
+     LED_Write(!LED_Read());
+    CyDelay(500);
     }
 }
 
